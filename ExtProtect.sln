@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExtProtect", "ExtProtect.vcproj", "{C0D49C29-ADA7-46DE-B969-357047FBFC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C0D49C29-ADA7-46DE-B969-357047FBFC74}.Debug.ActiveCfg = Debug|Win32
+		{C0D49C29-ADA7-46DE-B969-357047FBFC74}.Debug.Build.0 = Debug|Win32
+		{C0D49C29-ADA7-46DE-B969-357047FBFC74}.Release.ActiveCfg = Release|Win32
+		{C0D49C29-ADA7-46DE-B969-357047FBFC74}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
