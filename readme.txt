@@ -1,4 +1,16 @@
-ExtProtect - Extrarius's Warcraft 3 Map Protector Version 0.1.2.0ß
+
+I stumbled across this code on an old defunct website of mine. I'm a fan of CC0 these days, so:
+
+ExtProtect is Copyright 2004 by Extrarius (ExtProtect@PsychoSanity.com)
+ExtProtect by Extrarius is marked with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
+The file LICENSE also contains the text of the license.
+
+Some files in this repo have other licenses because they were created by others.
+
+--------------------------------------------------------------------------------
+
+
+ExtProtect - Extrarius's Warcraft 3 Map Protector Version 0.1.2.0ÃŸ
 
 New versions will be available for download at http://extprotect.psychosanity.com/
 
@@ -59,27 +71,6 @@ RSA Data Security, Inc. for their MD5 Message-Digest Algorithm and the implement
 Shadow Flare, for her SFMPQAPI library. (http://shadowflare.ancillaediting.net/)
 
 Markus Oberhumer and Laszlo Molnar for their Ultimate Packer for eXecutables. (http://upx.sourceforge.net)
-
-
-==========================
- Copyright And Disclaimer
-==========================
-
-ExtProtect is Copyright 2004 by Extrarius (ExtProtect@PsychoSanity.com)
-Redistribution and use without modification are permitted.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
 
 =================
  Changes History
